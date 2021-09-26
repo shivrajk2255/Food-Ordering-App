@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Ordering App</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+    <string name="skip">Skip</string>
+    <string name="alreadyAccount">Already have an Account? Sign in</string>
+</resources>
